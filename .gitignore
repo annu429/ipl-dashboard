@@ -35,4 +35,6 @@ build/
 ### React App ###
 src/frontend/node_modules/
 
-
+### React App ###
+src/frontend/node_modules/
+/*.log
